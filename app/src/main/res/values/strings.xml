@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Parkir Smart</string>
+    <string name="mapbox_access_token" translatable="false" tools:ignore="UnusedResources">sk.eyJ1IjoibWFyamFuMTEyMiIsImEiOiJjbHptYXFsMDgwODFqMmtxdTg4a2FpZHJsIn0.zRwn3vdqW36cRu5u4WMtVg</string>
+</resources>

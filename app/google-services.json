@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862427136204",
+    "project_id": "parkir-smart-18fa4",
+    "storage_bucket": "parkir-smart-18fa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862427136204:android:ca1ffe4a3faaf2e61fc269",
+        "android_client_info": {
+          "package_name": "com.example.parkirsmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIqo1CpCeF1rJ0WbgZEfRB5Ee0tH46TaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
